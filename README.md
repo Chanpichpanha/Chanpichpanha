@@ -7,7 +7,6 @@ A student at CADT who interested in new technology and want to be capable of eve
 ---
 
 ### My learning:
-### Technical Focus:
 
 - **Language:** C, CSS/HTML, Javascript, C++
 - **Frontend/Mobile:** Figma
